@@ -6,7 +6,7 @@
 
 <p align = center>   <img src="https://files.catbox.moe/0m1izg.webp"</p>
 <p align="center">
-
+<a href="https://buymeacoffee.com/dave" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
    </p>
 <p align="center">
 <a href="https://github.com/Davemiracle01"><img title="Author" src="https://img.shields.io/badge/Davemiracle01-black?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@malvintech2"><img title="Author" src="https://img.shields.io/badge/YOUTUBE SUBSCRIBE-red?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/254114127157"><img title="Author" src="https://img.shields.io/badge/Contact Me-black?style=for-the-badge&logo=whatsapp"></a>
