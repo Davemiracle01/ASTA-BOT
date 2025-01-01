@@ -23,13 +23,7 @@ let dec = `
 │▸*⚔️* *ᴄʀᴇᴀᴛᴏʀ* : *➺ᴅᴀᴠᴇ
 │▸*⚔️* *ᴠᴇʀsɪᴏɴ* : *ᴠ2.1*
 │▸*⚔️* *ᴍᴇɴᴜ ᴄᴍᴅ* : *ᴍᴇɴᴜ ʟɪsᴛ*
-
-Quote: let  God be your light and path out of the darkness 
-
-╭────❒ *MENU*
-│⚔️ *ᴍᴇᴅɪᴀғɪʀᴇ*
-│⚔️│*.ɪɴꜱᴛᴀ*
-╒──[ASTA BOT]
+Quote: let  God be your light and path out of the darkness  
 │ ᴏᴡɴᴇʀ : dave 
 │ ɴᴜᴍʙᴇʀ: 254114127157
 │ ᴘʀᴇғɪx: .
